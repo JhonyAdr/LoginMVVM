@@ -34,7 +34,7 @@ app/
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/tu-usuario/login-mvvm.git
+git clone https://github.com/JhonyAdr/LoginMVVM.git
 ```
 
 2. Abre el proyecto en Android Studio
